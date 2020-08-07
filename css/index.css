@@ -255,3 +255,20 @@ div.trex{
   height: 200px;
 }
 
+.containerA{
+    padding: 2%;
+}
+div.finnaFlex{
+    padding:5%;
+    display: inline-block;
+}
+div.finnaFlex img{
+    width:30%;
+    height:20%;
+    vertical-align: top;
+    display: flex;
+    text-align: center;
+}
+.textUnder{
+    display: block;
+}
